@@ -37,7 +37,7 @@ Environment Workaround: In the Ubuntu 24.04/Jazzy environment, automatic world i
 Hardware Profile: This package is specifically tuned for the physical footprint and sensor constraints of the TurtleBot3 Waffle.
 
 Demonstration
-[Link to your 2-3 minute Screen Recording]
+[Press here](https://drive.google.com/file/d/1_jTmJNrjinp4tDVsdEYWzHUGsGVTnBec/view?usp=drive_link)
 
 This project will be further integrated to navigate paths with live moving obstacles, and updating paths in real time.
 

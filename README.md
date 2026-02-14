@@ -1,4 +1,4 @@
-Autonomous Navigation with ROS 2 Jazzy
+**Autonomous Navigation with ROS 2 Jazzy**
 Project Overview:
 This repository contains a ROS 2 package designed for autonomous navigation using a TurtleBot3 Waffle in a simulated environment. The project demonstrates the integration of the Nav2 stack with Gazebo Harmonic, focusing on path planning and obstacle avoidance.
 
@@ -40,4 +40,12 @@ Demonstration
 [Link to your 2-3 minute Screen Recording]
 
 This project will be further integrated to navigate paths with live moving obstacles, and updating paths in real time.
+
+
+## References & Acknowledgments
+* **ROS 2 Documentation:** [Official Jazzy Jalisco Docs](https://docs.ros.org/en/jazzy/)
+* **Nav2 Documentation:** [Navigation 2 Project](https://navigation.ros.org/)
+* **Gazebo Sim:** [Gazebo Harmonic Documentation](https://gazebosim.org/docs/harmonic)
+* **TurtleBot3:** [ROBOTIS TurtleBot3 Manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+* **Automatic Addison:** [Navigation 2 tutorial](https://www.youtube.com/@automaticaddison)
 
